@@ -12,5 +12,10 @@ public class F1 {
 	public void m4() {
 
 		  System.out.println("satya");
+	}
+	public void m3() {
+
+
+
 			}
 }
