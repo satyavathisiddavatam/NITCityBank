@@ -9,4 +9,8 @@ public class F1 {
 
 		  System.out.println("m2()");
 			}
+	public void m4() {
+
+		  System.out.println("satya");
+			}
 }
