@@ -5,4 +5,8 @@ public class F1 {
 
   System.out.println("satya");
 	}
+	public void m2() {
+
+		  System.out.println("m2()");
+			}
 }
